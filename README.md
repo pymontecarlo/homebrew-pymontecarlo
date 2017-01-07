@@ -10,7 +10,7 @@ Then install the pymontecarlo tap:
 
 `brew tap pymontecarlo/pymontecarlo`
 
-Here is a list of available programs, which you can install using `brew install`:
+Here is a list of available programs, which you can install using `brew install` (note: as the installation can take more than 10 minutes, use the verbose flag to see more detailed progress, `brew install -v`):
 
 * pymontecarlo-gui-debug
 
