@@ -14,3 +14,12 @@ Here is a list of available programs, which you can install using `brew install`
 
 * pymontecarlo-gui-debug
 
+   A debug program to test the graphical user interface of pymontecarlo.
+
+* casino2
+
+   A Monte Carlo simulation program from D. Drouin et al.
+
+* winxray
+
+   A Monte Carlo simulation program from H. Demers, P. Horny, R. Gauvin and E. Lifshin.
