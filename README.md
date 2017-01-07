@@ -23,3 +23,7 @@ Here is a list of available programs, which you can install using `brew install`
 * winxray
 
    A Monte Carlo simulation program from H. Demers, P. Horny, R. Gauvin and E. Lifshin.
+
+* dtsa2
+
+   A software package for quantitative x-ray microanalysis by N.W.M. Ritchie.
